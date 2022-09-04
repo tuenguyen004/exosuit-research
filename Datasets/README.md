@@ -1,1 +1,1 @@
-Here are the datasets of the usability tests I designed to analyze the Wearnotch sensors and implemented the Exosuit's posture-categorizing model
+These are all the datasets I used while implementing and testing the Exosuit's posture-categorizing model
